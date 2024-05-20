@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": "3",
+      "conteudo": "A prefeitura do Rio quer criar 'Parque do Flamengo' para o século XXI no Porto Maravilha",
+      "autoria": "extra.globo.com - site",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "4",
+      "conteudo": "Pensando bem, estou pensando em nada, sei que nada sei",
+      "autoria": "Wander França",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "5",
+      "conteudo": "teste de aplicação",
+      "autoria": "Wander França",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "7449",
+      "conteudo": "Criando pensamento de teste 8888888",
+      "autoria": "Teste",
+      "modelo": "modelo1"
+    }
+  ]
+}
