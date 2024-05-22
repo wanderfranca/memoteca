@@ -5,9 +5,19 @@
 <form [formGroup]="formulario">
   <label for="pensamento">Pensamento</label>
   <input type="textarea" class="input" id="pensamento" formControlName="conteudo" placeholder="No que você está pensando?"/>
+  <div class="mensagem__erro" *ngIf="formulario.get('conteudo')?.errors && formulario.get('conteudo')?.touched">
+    Pensamento é obrigatório
+  </div>
 
   <label for="autoria">Autoria</label>
   <input type="textarea" class="input" id="autoria" formControlName="autoria" placeholder="Digite a autoria ou fonte"/>
+
+  <div class="mensagem__erro" *ngIf="formulario.get('autoria')?.errors?.['required'] && formulario.get('autoria')?.touched">
+    Autoria é obrigatória
+  </div>
+  <div class="mensagem__erro" *ngIf="formulario.get('autoria')?.errors?.['minlength'] && formulario.get('autoria')?.touched">
+    Precisa de no mínimo 3 caracteres
+  </div>
 
   <label for="modelo">Selecione o modelo do card:</label>
   <div class="container-radio">
@@ -39,7 +49,7 @@
       <div class="modelo modelo2 ff-roboto-mono">
         <img src="../../../../assets/imagens/modelo2.png" alt="Aspas azul claro">
         <p class="conteudo">{{ formulario.get('conteudo')?.value }}</p>
-        <p class="autoria"><b>{{ formulario.get('autoria')?.value  }}</b></p>
+        <p class="autoria"><b>{{ formulario.get('autoria')?.value }}</b></p>
       </div>
     </div>
 
@@ -61,7 +71,13 @@
   </div>
 
   <div class="acoes">
-    <button (click)="criarPensamento()" class="botao">Salvar</button>
+    <button
+      [disabled]="!formulario.valid"
+      (click)="criarPensamento()"
+      [ngClass]="habilitarBotao()"
+      >Salvar
+    </button>
+
     <button (click)="redirect()" class="botao">Cancelar</button>
   </div>
 </form>
