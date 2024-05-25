@@ -1,4 +1,3 @@
-import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Pensamento } from './pensamento/pensamento';
 import { Observable } from 'rxjs';
