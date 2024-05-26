@@ -1,8 +1,6 @@
 import { Component } from '@angular/core';
-import { AppComponent } from '../../../app.component';
 import { FormsModule } from '@angular/forms';
 import { Router } from '@angular/router';
-import { Pensamento } from '../pensamento/pensamento';
 import { PensamentoService } from '../pensamento.service';
 
 @Component({
