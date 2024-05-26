@@ -26,14 +26,14 @@
       "conteudo": "Já diz o ditado: Fazer alguém sem olhar o bem que tem… Não… Fazer o bem sem olhar o que tem alguém… É mais ou menos isso.\"",
       "autoria": "Chapolin Colorado",
       "modelo": "modelo3",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": "85419000",
       "conteudo": "Se o HOMEM veio do MACACO ele deve ter cruzado com uma COBRA. Pq ta pra nascer especie mais venenosa q o SER HUMANO... #FATO, Se viemos do macaco, por que o macaco existe?  Simples, porque na verdade, não evoluímos do macaco atual, e sim de um antepassado em comum. Portanto, o macaco não evoluirá para se tornar um ser-humano/",
       "autoria": "Macaco louco",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": "98793719",
@@ -61,14 +61,14 @@
       "conteudo": "Faça seus medos terem medo de você.",
       "autoria": "Batman",
       "modelo": "modelo2",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": "45718802",
       "conteudo": "Eu tentei, não ser moleque por você eu tentei!",
       "autoria": "João Fuck Neto",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     }
   ]
 }
