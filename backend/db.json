@@ -4,49 +4,74 @@
       "id": "3",
       "conteudo": "A prefeitura do Rio quer criar 'Parque do Flamengo' para o século XXI no Porto Maravilha",
       "autoria": "extra.globo.com - site",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": "4",
-      "conteudo": "Pensando bem, estou pensando em nada, sei que nada sei",
-      "autoria": "Wander França",
-      "modelo": "modelo3"
+      "conteudo": "Já dizia aquele velho e conhecido refrão. Não há pior surdo do que aquele que não ouve nada!",
+      "autoria": "Chapolin Colorado",
+      "modelo": "modelo2",
+      "favorito": false
+
     },
     {
       "id": "5",
       "conteudo": "teste de aplicação",
       "autoria": "Wander França",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": "78585624",
-      "conteudo": "teste teste 12345",
-      "autoria": "Angular vai nessa",
-      "modelo": "modelo3"
+      "conteudo": "Já diz o ditado: Fazer alguém sem olhar o bem que tem… Não… Fazer o bem sem olhar o que tem alguém… É mais ou menos isso.\"",
+      "autoria": "Chapolin Colorado",
+      "modelo": "modelo3",
+      "favorito": true
+
     },
     {
       "id": "85419000",
-      "conteudo": "sfiwsouwei oduwicojsdicjwieofu widfu wiefuwe8fu wioefuiwoefuiowefuiw eofuioweuioscudimoscu weiocu scijs iocu eiouc qdjdj qwiodj qiodju qidu qiwdu qdhjkwqdh qudey qiuwdhquwdh iquwdhquydquwdy quidyq uwdyquwidyqwuidyqwuidhqjwdhqjuwd yhqwudiyqwuidyqwudy quwhdjqhdq",
+      "conteudo": "Se o HOMEM veio do MACACO ele deve ter cruzado com uma COBRA. Pq ta pra nascer especie mais venenosa q o SER HUMANO... #FATO, Se viemos do macaco, por que o macaco existe?  Simples, porque na verdade, não evoluímos do macaco atual, e sim de um antepassado em comum. Portanto, o macaco não evoluirá para se tornar um ser-humano/",
       "autoria": "Macaco louco",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
+
     },
     {
       "id": "98793719",
-      "conteudo": "rwerwerewrwrwewerwrw",
-      "autoria": "wdsfgdfgdfghdhdfhd",
-      "modelo": "modelo1"
+      "conteudo": "Eu devia ter vencido essa corrida, Mutley.",
+      "autoria": "Dick Vigarista",
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": "42124009",
       "conteudo": "Pensamento de teste após utilizar  GIT para voltar",
       "autoria": "Wander França",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
-      "conteudo": "Júlio é um cara bem legal, pena que não pode ver mulher",
-      "autoria": "Alguém por aí",
+      "id": "56",
+      "conteudo": "Se dá pra imaginar, então dá pra fazer",
+      "autoria": "Júlio Rainho",
       "modelo": "modelo3",
-      "id": "US833zw"
+      "favorito": false
+    },
+    {
+      "id": "55",
+      "conteudo": "Faça seus medos terem medo de você.",
+      "autoria": "Batman",
+      "modelo": "modelo2",
+      "favorito": true
+    },
+    {
+      "id": "45718802",
+      "conteudo": "Eu tentei, não ser moleque por você eu tentei!",
+      "autoria": "João Fuck Neto",
+      "modelo": "modelo2",
+      "favorito": false
     }
   ]
 }
