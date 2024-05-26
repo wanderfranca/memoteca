@@ -5,7 +5,7 @@
       "conteudo": "A prefeitura do Rio quer criar 'Parque do Flamengo' para o século XXI no Porto Maravilha",
       "autoria": "extra.globo.com - site",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": "4",
@@ -13,7 +13,6 @@
       "autoria": "Chapolin Colorado",
       "modelo": "modelo2",
       "favorito": false
-
     },
     {
       "id": "5",
@@ -28,7 +27,6 @@
       "autoria": "Chapolin Colorado",
       "modelo": "modelo3",
       "favorito": true
-
     },
     {
       "id": "85419000",
@@ -36,7 +34,6 @@
       "autoria": "Macaco louco",
       "modelo": "modelo1",
       "favorito": true
-
     },
     {
       "id": "98793719",
